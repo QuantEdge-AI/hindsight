@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "repository": "minulislam/hindsight",
+  "repository": "QuantEdge-AI/hindsight",
   "backfilledAt": "2026-08-03T10:36:26.721Z",
   "backfill": [
     {
@@ -1039,6 +1039,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 0
+    },
+    {
+      "date": "2026-08-18",
       "stars": 0
     }
   ]
